@@ -33,3 +33,17 @@
 .algernon {
     color: teal;
 }
+
+table {
+    border: solid 3px brown;
+    width: 30%;
+}
+
+th, td {
+    border: solid 1px;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
