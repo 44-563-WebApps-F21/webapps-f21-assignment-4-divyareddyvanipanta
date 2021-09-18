@@ -1,0 +1,35 @@
+.speech {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+.stage-direction {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+    background-color: darkseagreen;
+}
+
+.stage-direction p:hover {
+    background-color: deepskyblue;
+    color: forestgreen;
+}
+
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+.gwendolen {
+    color: yellow;
+}
+
+.cecily {
+    color: tomato;
+}
+
+.algernon {
+    color: teal;
+}
