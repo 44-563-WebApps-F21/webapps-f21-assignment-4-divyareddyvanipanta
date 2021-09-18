@@ -55,3 +55,22 @@ tr:nth-child(even) {
     text-shadow: 2px 3px 4px rosybrown;
     border: solid 2px gainsboro;
 }
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    color:#000;
+    background-color:purple
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+}
+ul.navbar-horizontal a:hover {
+    background-color: #555;
+    color:white;
+}
