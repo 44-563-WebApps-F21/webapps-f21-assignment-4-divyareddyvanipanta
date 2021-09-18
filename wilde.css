@@ -63,14 +63,14 @@ ul.navbar-horizontal {
 }
 ul.navbar-horizontal li {
     float:left;
-    color:#000;
-    background-color:purple
+    background-color: darkviolet;
 }
 ul.navbar-horizontal a {
     display:block;
     padding:8px;
+    color: floralwhite;
 }
 ul.navbar-horizontal a:hover {
-    background-color: #555;
-    color:white;
+    background-color: darkslateblue;
+    color:yellowgreen;
 }
