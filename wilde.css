@@ -11,7 +11,7 @@
     background-color: darkseagreen;
 }
 
-.stage-direction :hover {
+.stage-direction:hover {
     background-color: deepskyblue;
     color: forestgreen;
 }
@@ -23,7 +23,7 @@
 }
 
 .gwendolen {
-    color: yellow;
+    color: maroon;
 }
 
 .cecily {
