@@ -11,7 +11,7 @@
     background-color: darkseagreen;
 }
 
-.stage-direction p:hover {
+.stage-direction :hover {
     background-color: deepskyblue;
     color: forestgreen;
 }
